@@ -1,0 +1,7 @@
+[package]
+name = "bughunt-core"
+version = "0.1.0"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+edition = "2018"
+
+[dependencies]
